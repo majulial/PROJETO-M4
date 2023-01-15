@@ -6,3 +6,12 @@ Banco de dados - Projeto INDIVIDIAL MÓDULO 04
 </p>
 
 
+- Existem outras entidades além destas 3?
+<p>Não. Mas podem ser acrecentadas como: Instrutores, Matriculas e etc.</p>
+
+- Quais são os principais campos e tipos?
+<p> entidades, atributos e relacionamentos. </p>
+
+- Como estas entidades estão relacionadas?
+<p>Um para muitos (1:n).</p>
+<br
